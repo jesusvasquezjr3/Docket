@@ -1,6 +1,18 @@
 # 📋 Docket - Gestor de Tareas
 
-Docket es una aplicación de gestión de tareas sencilla y visualmente atractiva, desarrollada con **Python** y **Tkinter** 🐍. Permite a los usuarios añadir, eliminar y marcar tareas como completadas o incompletas, con una interfaz inspirada en el diseño de *glass morphism* que es limpia y responsiva 🌟.
+<img src="images/logo.png" alt="Logo" width="400" align="right" style="margin-left: 20px; margin-bottom: 20px;" />
+
+[![Hybridge Education](https://img.shields.io/badge/Hybridge-Education-lightgrey)](https://www.hybridge.education)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+
+## Resumen
+
+![Docket](images/Screenshot_2025-07-10_225000.png)
+
+Docket es una aplicación de gestión de tareas sencilla y visualmente atractiva, desarrollada con **Python** y **Tkinter** . Permite a los usuarios añadir, eliminar y marcar tareas como completadas o incompletas, con una interfaz inspirada en el diseño de *glass morphism* que es limpia y responsiva, desarrollado para la clase de **Programación Avanzada** en la carrera de **Ingeniería en Inteligencia Artificial** en **Hybridge Education.**.
 
 ## ✨ Características
 - ➕ **Añadir Tareas**: Introduce una tarea en el campo de entrada y haz clic en "Añadir" para incluirla en la lista.
@@ -19,8 +31,8 @@ Docket es una aplicación de gestión de tareas sencilla y visualmente atractiva
 ## 🚀 Instalación
 1. 📥 Clona el repositorio:
    ```bash
-   git clone https://github.com/tu-usuario/docket-task-manager.git
-   cd docket-task-manager
+   git clone https://github.com/jesusvasquezjr3/Docket
+   cd Docket
    ```
 2. ✅ Asegúrate de tener Python instalado. Verifica con:
    ```bash
@@ -37,7 +49,7 @@ Docket es una aplicación de gestión de tareas sencilla y visualmente atractiva
 
 ## 📂 Estructura del Proyecto
 ```plaintext
-docket-task-manager/
+Docket/
 ├── 📄 main.py              # Punto de entrada de la aplicación
 ├── 📄 task_manager.py      # Lógica de gestión de tareas
 ├── 📄 gui.py               # Interfaz gráfica de usuario
@@ -68,23 +80,10 @@ docket-task-manager/
    - 📏 Filas más anchas (30px de altura) con texto negro para mejor legibilidad.
    - 🖼️ Un diseño inspirado en *glass morphism* con un panel semitransparente y una paleta de colores con tonos azules, naranjas y morados.
 
-## 🎨 Paleta de Colores
-La aplicación utiliza una paleta de colores inspirada en *glass morphism*:
-- ✒️ **Texto**: Negro (`#000000`) para alto contraste.
-- 🖼️ **Borde del Panel**: Blanco semitransparente (`#EBF5FF`, RGB: 235, 245, 255).
-- 🔵 **Círculos/Botones**: Azul/Cian (`#00A2D5`, RGB: 0, 162, 213).
-- 🟠 **Fondo (Naranja)**: Naranja cálido (`#CC7E52`, RGB: 204, 126, 82).
-- 🟣 **Fondo (Morado)**: Morado profundo (`#483F89`, RGB: 72, 63, 137).
-- ⚫ **Sombra**: Negro (`#000000`) con baja opacidad.
-- 🌈 **Colores de Filas**: Filas pares (`#D5E8FF`), filas impares (`#EBF5FF`).
+## 📜 Licencia MIT
+Copyright © 2025 Jesús Vásquez - Hybridge Education
 
-## ℹ️ Notas
-- 🖼️ El efecto de *glass morphism* se simula usando el `Canvas` de Tkinter y estilos de color debido a las limitaciones de Tkinter.
-- 🔤 Asegúrate de que tu sistema soporte los emojis ✅ y ⏳. Si no se renderizan correctamente, configura una fuente como Segoe UI Emoji usando `ttk.Style`.
-- 🛠️ La aplicación está diseñada para ser ligera y modular, con archivos separados para lógica, interfaz y configuración.
-
-## 🤝 Contribución
-¡Las contribuciones son bienvenidas! Por favor, haz un *fork* del repositorio, realiza tus cambios y envía un *pull request*. Asegúrate de que tu código siga la estructura existente y mantenga la estética de *glass morphism* 🌟.
+Este proyecto es material académico desarrollado como parte del programa educativo de Hybridge Education.
 
 ## 📜 Licencia
 Este proyecto está licenciado bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE) para más detalles.
