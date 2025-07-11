@@ -84,10 +84,3 @@ Docket/
 Copyright © 2025 Jesús Vásquez - Hybridge Education
 
 Este proyecto es material académico desarrollado como parte del programa educativo de Hybridge Education.
-
-## 📜 Licencia
-Este proyecto está licenciado bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE) para más detalles.
-
----
-
-*Desarrollado con Python y Tkinter por [Tu Nombre] 🧑‍💻.*
