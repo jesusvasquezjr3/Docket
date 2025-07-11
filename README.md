@@ -10,7 +10,7 @@
 
 
 ## Resumen
-Docket es una aplicación de gestión de tareas sencilla y visualmente atractiva, desarrollada con **Python** y **Tkinter** . Permite a los usuarios añadir, eliminar y marcar tareas como completadas o incompletas, con una interfaz inspirada en el diseño de *glass morphism* que es limpia y responsiva, desarrollado para la clase de **Programación Avanzada** en la carrera de **Ingeniería en Inteligencia Artificial** en **Hybridge Education.**.
+Docket es una aplicación de gestión de tareas sencilla y visualmente atractiva, desarrollada con **Python** y **Tkinter** . Permite a los usuarios añadir, eliminar y marcar tareas como completadas o incompletas, con una interfaz inspirada en el diseño de *glass morphism* que es limpia y responsiva, desarrollado para la clase de **Programación Avanzada** en la carrera de **Ingeniería en Inteligencia Artificial** en **Hybridge Education.**
 
 ![Docket](images/Screenshot_2025-07-10_225000.png)
 
