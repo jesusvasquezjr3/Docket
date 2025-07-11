@@ -8,6 +8,7 @@
 ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
+
 ## Resumen
 Docket es una aplicación de gestión de tareas sencilla y visualmente atractiva, desarrollada con **Python** y **Tkinter** . Permite a los usuarios añadir, eliminar y marcar tareas como completadas o incompletas, con una interfaz inspirada en el diseño de *glass morphism* que es limpia y responsiva, desarrollado para la clase de **Programación Avanzada** en la carrera de **Ingeniería en Inteligencia Artificial** en **Hybridge Education.**.
 
