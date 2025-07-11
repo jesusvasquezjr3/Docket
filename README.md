@@ -1,6 +1,6 @@
 # 📋 Docket - Gestor de Tareas
 
-<img src="images/logo.png" alt="Logo" width="100" align="right" style="margin-left: 20px; margin-bottom: 20px;" />
+<img src="images/logo.png" alt="Logo" width="150" align="right" style="margin-left: 20px; margin-bottom: 20px;" />
 
 [![Hybridge Education](https://img.shields.io/badge/Hybridge-Education-lightgrey)](https://www.hybridge.education)
 
@@ -9,10 +9,9 @@
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
 ## Resumen
+Docket es una aplicación de gestión de tareas sencilla y visualmente atractiva, desarrollada con **Python** y **Tkinter** . Permite a los usuarios añadir, eliminar y marcar tareas como completadas o incompletas, con una interfaz inspirada en el diseño de *glass morphism* que es limpia y responsiva, desarrollado para la clase de **Programación Avanzada** en la carrera de **Ingeniería en Inteligencia Artificial** en **Hybridge Education.**.
 
 ![Docket](images/Screenshot_2025-07-10_225000.png)
-
-Docket es una aplicación de gestión de tareas sencilla y visualmente atractiva, desarrollada con **Python** y **Tkinter** . Permite a los usuarios añadir, eliminar y marcar tareas como completadas o incompletas, con una interfaz inspirada en el diseño de *glass morphism* que es limpia y responsiva, desarrollado para la clase de **Programación Avanzada** en la carrera de **Ingeniería en Inteligencia Artificial** en **Hybridge Education.**.
 
 ## ✨ Características
 - ➕ **Añadir Tareas**: Introduce una tarea en el campo de entrada y haz clic en "Añadir" para incluirla en la lista.
