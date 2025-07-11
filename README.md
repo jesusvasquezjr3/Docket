@@ -1,6 +1,6 @@
 # 📋 Docket - Gestor de Tareas
 
-<img src="images/logo.png" alt="Logo" width="50" align="right" style="margin-left: 20px; margin-bottom: 20px;" />
+<img src="images/logo.png" alt="Logo" width="100" align="right" style="margin-left: 20px; margin-bottom: 20px;" />
 
 [![Hybridge Education](https://img.shields.io/badge/Hybridge-Education-lightgrey)](https://www.hybridge.education)
 
